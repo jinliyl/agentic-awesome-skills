@@ -371,4 +371,4 @@ For a request to add a factor, inspect the existing plugin and Task definition, 
 
 ## Source and License
 
-Copyright 2026 FlowLLM-AI. Adapted from the AxonX development guide and Skill at commit `862b90da9c49c3bdee4c2ab9ef896c415aee9f45`, licensed under Apache-2.0; the license is included in `LICENSE`. This contribution adds catalog metadata, trigger guidance, safety notes, examples, and limitations. Source attribution does not imply endorsement by this catalog.
+Copyright 2026 FlowLLM-AI. Adapted from the AxonX development guide and Skill at commit `862b90da9c49c3bdee4c2ab9ef896c415aee9f45`, licensed under Apache-2.0; the license is included at `references/LICENSE.md`. This contribution adds catalog metadata, trigger guidance, safety notes, examples, and limitations. Source attribution does not imply endorsement by this catalog.
